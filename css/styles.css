@@ -1,0 +1,31 @@
+body {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  background-color: #F6F7F8;
+}
+.container {
+  padding-bottom: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+  border: teal 15px;
+  background-color: gray;
+  width: auto;
+}
+
+h1 {
+  color: grey;
+}
+
+h3 {
+  color: #00487C;
+}
+
+.jumbotron {
+  color: turquoise
+}
+
+#footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 3rem;
+}
