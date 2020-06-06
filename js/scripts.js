@@ -11,7 +11,7 @@ $(document).ready(function() {
     $("#crush3").show();
   } else {
     $("#crush4").show();
-  }
+  };
 
   event.preventDefault();
   });

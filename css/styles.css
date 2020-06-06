@@ -9,7 +9,7 @@ body {
   border: teal 15px;
   background-color: gray;
   width: auto;
-}
+
 
 h1 {
   color: grey;
@@ -20,7 +20,7 @@ h3 {
 }
 
 .jumbotron {
-  color: turquoise
+  color: rgb(15, 192, 174)
 }
 
 #footer {
